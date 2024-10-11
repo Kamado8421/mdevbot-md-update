@@ -1,0 +1,14 @@
+{
+    "apikeys": {
+        "clima": {
+            "nome": "open_weather",
+            "key": "",
+            "site": "https://openweathermap.org/api"
+        },
+        "gemini": {
+            "nome": "Google Gemini AI",
+            "key": "",
+            "site": "https://ai.google.dev"
+        }
+    }
+}
